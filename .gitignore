@@ -1,0 +1,31 @@
+# ---------- Unity 自动生成，不要进仓库 ----------
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE / 编辑器产物
+.vs/
+.vsconfig
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# 崩溃日志
+sysinfo.txt
+crashlytics-build.properties
+
+# ---------- 注意 ----------
+# 千万不要在这里写 [Bb]uild/ 或 Build/。
+# docs/Build/ 装的是 WebGL 构建的核心文件（loader.js / wasm / data），
+# 被忽略掉的话推上去的网站会缺文件，打开一片黑。
